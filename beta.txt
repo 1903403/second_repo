@@ -1,1 +1,1 @@
-alpha beta gamma theta
+beta gamma theta
